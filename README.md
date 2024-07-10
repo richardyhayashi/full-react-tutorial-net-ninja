@@ -24,7 +24,7 @@
 2. Creating a React Application
 3. Components & Templates
 4. Dynamic Values in Templates
-5.
+5. Multiple Components
 6.
 7.
 8.
