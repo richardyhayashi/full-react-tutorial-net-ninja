@@ -23,7 +23,7 @@
 1. Introduction
 2. Creating a React Application
 3. Components & Templates
-4.
+4. Dynamic Values in Templates
 5.
 6.
 7.
